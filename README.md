@@ -6,6 +6,6 @@ Default script is:
 
 The **()** is starting of line
 
-After **( 1** is print\n
-**2** is wait\n
+After **( 1** is print
+**2** is wait
 **3** is Create Instance
