@@ -6,12 +6,7 @@ Default script is:
 
 The **()** is starting of line
 
-
-
-
-After **( 1** is print
-
-**2** is wait
-
+After **( 1** is print<br>
+**2** is wait<br>
 **3** is Create Instance
 
