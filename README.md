@@ -5,4 +5,7 @@ Default script is:
 **(1Hello World!)(25)(15 Second Left!)(210)(110 Seconds Left!)**
 
 The **()** is starting of line
-After **( 1** is print, **2** is wait
+
+After **( 1** is print,
+**2** is wait
+**3** is Create Instance
